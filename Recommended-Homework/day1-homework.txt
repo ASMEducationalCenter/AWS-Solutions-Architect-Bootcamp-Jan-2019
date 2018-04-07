@@ -1,0 +1,14 @@
+Day 1 Homework:
+
+
+Amazon Virtual Private Cloud (VPC):
+https://www.youtube.com/watch?v=RA58XvPpnb4&t=3s
+
+Amazon AWS NAT Gateway and NAT instance
+https://www.youtube.com/watch?v=KTJN8u5fcYI
+
+Amazon AWS -Security Group and Network ACL
+https://www.youtube.com/watch?v=uEzf1TznKEA
+
+VPC Peering
+https://www.youtube.com/watch?v=ecokfhKU8Lw
