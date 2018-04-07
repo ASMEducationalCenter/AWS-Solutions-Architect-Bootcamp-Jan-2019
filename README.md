@@ -13,12 +13,14 @@ Course Objective:
 
 
 
-Day	What we will cover
-1	Intro to AWS& Cloud (CH 1), Well Architected Framework (CH 14).  Amazon S3(CH 2), EC2(CH3)
-2	Network Design with VPC (CH4) 
-3	High Availability with ELB, Auto Scaling , CloudWatch(CH  5) and DNS(CH 9), IAM(CH6)
-4	Databases (CH 7), SQS, SWF (CH 8), Automation with Cloud Formation (IaaC) 
-5	Other AWS Key Services (CH 11) , Security  & Compliance (Ch 12, 13) 
+
+[Day 1]	Intro to AWS& Cloud (CH 1), Well Architected Framework (CH 14).  Amazon S3(CH 2), EC2(CH3)
+[Day 2]	Network Design with VPC (CH4) 
+[Day 3]	High Availability with ELB, Auto Scaling , CloudWatch(CH  5) and DNS(CH 9), IAM(CH6)
+[Day 4]	Databases (CH 7), SQS, SWF (CH 8), Automation with Cloud Formation (IaaC) 
+[Day 5]	Other AWS Key Services (CH 11) , Security  & Compliance (Ch 12, 13) 
+
+
 ** there might be a few changes to the schedule 
 
 
@@ -28,8 +30,8 @@ https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 
 Materials we will be referring to:
-1)	AWS Official study guide book
-2)	Bootcamp Slides
+1)AWS Official study guide book
+2)Bootcamp Slides
 
 
 
@@ -68,17 +70,17 @@ https://aws.amazon.com/faqs/
 
 Read ALL these whitepapers before the exam ( About 300 Pages in total):
  (aws.amazon.com/whitepapers) 
-•	(76 Pages) AWS Well-Architected Framework, November 2016 :
+	(76 Pages) AWS Well-Architected Framework, November 2016 :
     https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
-•	(36 pages) AWS Well-Architected Framework - Security Pillar, May 2017 :
+	(36 pages) AWS Well-Architected Framework - Security Pillar, May 2017 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf
-•	(49 Pages ) AWS Well-Architected Framework - Reliability Pillar, November 2016 :
+	(49 Pages ) AWS Well-Architected Framework - Reliability Pillar, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
-•	(45 Pages) AWS Well-Architected Framework - Performance Efficiency Pillar, November 2016 :
+	(45 Pages) AWS Well-Architected Framework - Performance Efficiency Pillar, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf
-•	(35 Pages) AWS Well-Architected Framework - Cost Optimization Pillar, November 2016 :
+	(35 Pages) AWS Well-Architected Framework - Cost Optimization Pillar, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
-•	(42 Pages) Architecting for the Cloud: Best Practices whitepaper, Feb 2016 :
+	(42 Pages) Architecting for the Cloud: Best Practices whitepaper, Feb 2016 :
 https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 
 
@@ -88,6 +90,8 @@ Where to ask questions? If you’re confused and want insight on something or wa
 
 Official AWS forum :
 https://forums.aws.amazon.com/index.jspa
+
+
 Reddit AWS forum:
 https://www.reddit.com/r/aws
 
