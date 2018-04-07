@@ -5,14 +5,14 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 ## AWS SAA Exam Prep Bootcamp Syllabus (April 9-13)
 
 
-###Course Objective:
+### Course Objective:
 -	Prepare students to be ready for the AWS SAA exam
 -	Cover all the major AWS services 
 -	Introduce students to the Well Architected Framework
 -	Implement what we learn with hands on labs.
 
 
-
+## What will we be covering each day:
 
 #### [Day 1]	Intro to AWS& Cloud (CH 1), Well Architected Framework (CH 14).  Amazon S3(CH 2), EC2(CH3)
 #### [Day 2]	Network Design with VPC (CH4) 
@@ -25,7 +25,7 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 
 
 
-### Exam Info and Blueprint and sample questions can be found here:
+## Exam Info and Blueprint and sample questions can be found here:
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 
@@ -36,7 +36,7 @@ https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 
 
-### Other Resources:
+## Other Resources:
 
 AWS Frequently asked questions:
 https://aws.amazon.com/faqs/
@@ -68,10 +68,10 @@ https://aws.amazon.com/faqs/
 
 
 
-### Read ALL these whitepapers before the exam ( About 300 Pages in total):
+## Read ALL these whitepapers before the exam ( About 300 Pages in total):
  (aws.amazon.com/whitepapers) 
 #### (76 Pages) AWS Well-Architected Framework, November 2016 :
-    https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
 #### (36 pages) AWS Well-Architected Framework - Security Pillar, May 2017 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf
 #### (49 Pages ) AWS Well-Architected Framework - Reliability Pillar, November 2016 :
