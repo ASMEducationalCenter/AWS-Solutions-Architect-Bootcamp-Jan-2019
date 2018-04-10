@@ -39,27 +39,35 @@ https://aws.amazon.com/certification/certified-solutions-architect-associate/
 ## Other Resources:
 
 **AWS Frequently asked questions:**
+
 https://aws.amazon.com/faqs/
 
 **For all kinds of AWS updates:**
+
 https://aws.amazon.com/blogs/
 
 **For quick 10-minute lessons:**
+
 https://aws.amazon.com/getting-started/tutorials/
 
 **Mini Videos on Real life Architectures of companies using AWS. This Is My Architecture Series:**
+
 https://aws.amazon.com/this-is-my-architecture/
 
 **Do a lot of labs. Labs steps and code from official AWS Github pages:** 
+
 https://github.com/awslabs/
 
 **Documentation of All the services:**
+
 https://aws.amazon.com/documentation/?nc2=h_ql_d&awsm=ql-5
 
 **Reinvent Videos: Free 1 hour videos from AWS experts working on Amazon. This is from a conference that happens every year in Las Vegas and 40000 people attend. Walkthroughs, In depth sessions. There are 200, 300, 400 level videos. 1000 videos uploaded every year:**
+
 https://www.youtube.com/user/AmazonWebServices/playlists?view=50&sort=dd&shelf_id=27
 
 **Read the Frequently asked questions for all the major services. Then read the FAQ’s on services that confuse you the most:**
+
 https://aws.amazon.com/faqs/
 
 
