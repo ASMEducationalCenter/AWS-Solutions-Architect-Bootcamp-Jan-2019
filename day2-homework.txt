@@ -1,0 +1,9 @@
+Homework Day 2:
+
+
+
+Elastic Load Balancing + Autoscaling
+https://asmed.com/amazon-aws-auto-scaling-with-load-balancing/
+
+
+
