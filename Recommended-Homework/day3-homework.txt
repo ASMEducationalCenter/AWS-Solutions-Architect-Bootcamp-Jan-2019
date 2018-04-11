@@ -1,0 +1,9 @@
+
+
+Amazon AWS Command Line Interface (CLI) with roles:
+https://www.youtube.com/watch?v=YCSxln-10aQ
+
+
+
+
+
