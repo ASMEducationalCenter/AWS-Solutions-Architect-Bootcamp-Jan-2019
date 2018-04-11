@@ -76,9 +76,10 @@ https://aws.amazon.com/faqs/
 
 
 
-## Read ALL these whitepapers before the exam ( About 300 Pages in total):
+
+## Try to read ALL these whitepapers before the exam ( About 300 Pages in total):
  (aws.amazon.com/whitepapers) 
-#### (76 Pages) AWS Well-Architected Framework, November 2016 :
+#### (44 Pages +30 pages of questions and best practices ) AWS Well-Architected Framework, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
 #### (36 pages) AWS Well-Architected Framework - Security Pillar, May 2017 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf
@@ -88,8 +89,7 @@ https://d0.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf
 #### (35 Pages) AWS Well-Architected Framework - Cost Optimization Pillar, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
-#### (42 Pages) Architecting for the Cloud: Best Practices whitepaper, Feb 2016 :
-https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+
 
 
 

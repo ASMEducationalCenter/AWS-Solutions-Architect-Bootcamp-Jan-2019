@@ -1,0 +1,14 @@
+
+Points to note:
+
+Autoscaling addition and removal happens after evaluating the aggregate value across all instance.
+
+If 1 instance is at 80% and the other is at 60% then the average is 70%.
+
+If you set up alarm to add an instance at 80% then the addition of an instance will not take place.
+
+
+More Reference:
+view the Step Adjustments section on the following link:
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.html
