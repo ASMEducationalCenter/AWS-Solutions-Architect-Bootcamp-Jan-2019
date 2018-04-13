@@ -1,0 +1,10 @@
+Issue:
+How can I distribute read requests across multiple Amazon Relational Database Service (Amazon RDS) read replicas? 
+
+
+Short Answer:
+You can use Amazon Route 53 weighted record sets to distribute requests across your read replicas. Within a Route 53 hosted zone, create individual record sets for each DNS endpoint associated with your read replicas and give them the same weight. Then, direct requests to the endpoint of the record set.
+
+
+Read more here:
+https://aws.amazon.com/premiumsupport/knowledge-center/requests-rds-read-replicas/

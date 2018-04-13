@@ -1,0 +1,5 @@
+We were unable to connect to our webserver during the class when we used Custom NACL:
+
+
+This is because we didn't include the ephemeral ports on the NACL. You can read more about it here:
+https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_ACLs.html#VPC_ACLs_Ephemeral_Ports
