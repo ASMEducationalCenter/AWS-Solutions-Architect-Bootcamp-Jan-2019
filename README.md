@@ -1,8 +1,7 @@
 This Repository contains the files for AWS Solutions Architect Associate Exam Prep Bootcamp.
 
 
-
-## AWS SAA Exam Prep Bootcamp Syllabus (April 9-13)
+## AWS SAA Exam Prep Bootcamp Syllabus 
 
 
 ### Course Objective:
@@ -24,6 +23,10 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 ** there might be a few changes to the schedule 
 
 
+
+## Link for the Labs:
+
+https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
 
 ## Exam Info and Blueprint and sample questions can be found here:
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
