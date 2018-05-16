@@ -12,3 +12,11 @@ More Reference:
 view the Step Adjustments section on the following link:
 
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.html
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Controlling Which Auto Scaling Instances Terminate During Scale In
+
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html#custom-termination-policy
