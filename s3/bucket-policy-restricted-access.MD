@@ -1,4 +1,4 @@
-### If you want only certain websites to be able to access your s3 resources use a bucket policy like this:
+### Restricting Access to a Specific HTTP Referrer- If you want only certain websites to be able to access your s3 resources use a bucket policy like this:
 
 
 ```json
