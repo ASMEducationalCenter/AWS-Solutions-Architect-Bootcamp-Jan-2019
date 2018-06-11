@@ -93,6 +93,9 @@ https://d0.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pil
 #### (35 Pages) AWS Well-Architected Framework - Cost Optimization Pillar, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
 
+#### AWS Well-Architected Framework -Operational Excellence 
+https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
+
 
 
 
