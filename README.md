@@ -21,8 +21,8 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 
 
 ** there might be a few changes to the schedule 
-
-
+## Link for the powerpoit Slides 
+https://s3.amazonaws.com/may-versioning-bucket/All-in-one-AWS-June-2018+updated.pdf
 
 ## Link for the Labs:
 
