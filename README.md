@@ -1,7 +1,7 @@
 This Repository contains the files for AWS Solutions Architect Associate Exam Prep Bootcamp.
 
 
-## AWS SAA Exam Prep Bootcamp Syllabus 
+## :cloud:  AWS SAA Exam Prep Bootcamp Syllabus :cloud:
 
 
 ### Course Objective:
