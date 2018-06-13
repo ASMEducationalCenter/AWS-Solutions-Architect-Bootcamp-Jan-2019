@@ -54,11 +54,11 @@ https://aws.amazon.com/blogs/
 
 https://aws.amazon.com/getting-started/tutorials/
 
-**Mini Videos on Real life Architectures of companies using AWS. This Is My Architecture Series:**
+** Mini Videos on Real life Architectures of companies using AWS. This Is My Architecture Series:**
 
 https://aws.amazon.com/this-is-my-architecture/
 
-**Do a lot of labs. Labs steps and code from official AWS Github pages:** 
+** :computer: Do a lot of labs. Labs steps and code from official AWS Github pages:** 
 
 https://github.com/awslabs/
 
@@ -81,7 +81,7 @@ https://aws.amazon.com/faqs/
 
 
 
-## Try to read ALL these whitepapers before the exam ( About 300 Pages in total):
+## :book:Try to read ALL these whitepapers before the exam ( About 300 Pages in total): 
  (aws.amazon.com/whitepapers) 
 #### (44 Pages +30 pages of questions and best practices ) AWS Well-Architected Framework, November 2016 :
 https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
@@ -101,7 +101,7 @@ https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pil
 
 
 
-#### Where to ask questions? If you’re confused and want insight on something or want to troubleshoot an issue, you can use these highly online active community forums.
+#### :question:Where to ask questions? If you’re confused and want insight on something or want to troubleshoot an issue, you can use these highly online active community forums.
 
 Official AWS forum :
 https://forums.aws.amazon.com/index.jspa
