@@ -12,12 +12,13 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 
 
 ## What will we be covering each day:
-
-#### [Day 1]	Intro to AWS& Cloud (CH 1), Well Architected Framework (CH 14).  Amazon S3(CH 2), EC2(CH3)
-#### [Day 2]	Network Design with VPC (CH4) 
-#### [Day 3]	High Availability with ELB, Auto Scaling , CloudWatch(CH  5) and DNS(CH 9), IAM(CH6)
-#### [Day 4]	Databases (CH 7), SQS, SWF (CH 8), Automation with Cloud Formation (IaaC) 
-#### [Day 5]	Other AWS Key Services (CH 11) , Security  & Compliance (Ch 12, 13) 
+| **DAY** | **TOPICS**    |
+-------|:-----------
+| **Day 1** |	Intro to AWS& Cloud (CH 1), Well Architected Framework (CH 14).  Amazon S3(CH 2), EC2(CH3) |
+|  **Day 2** |	Network Design with VPC (CH4) |
+| **Day 3**	|High Availability with ELB, Auto Scaling , CloudWatch(CH  5) and DNS(CH 9), IAM(CH6) |
+| **Day 4**	|Databases (CH 7), SQS, SWF (CH 8), Automation with Cloud Formation (IaaC) |
+|  **Day 5** |Other AWS Key Services (CH 11) , Security  & Compliance (Ch 12, 13) |
 
 
 ** there might be a few changes to the schedule 
