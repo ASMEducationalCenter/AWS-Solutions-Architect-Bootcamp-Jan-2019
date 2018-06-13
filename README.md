@@ -54,11 +54,11 @@ https://aws.amazon.com/blogs/
 
 https://aws.amazon.com/getting-started/tutorials/
 
-** Mini Videos on Real life Architectures of companies using AWS. This Is My Architecture Series:**
+**Mini Videos on Real life Architectures of companies using AWS. This Is My Architecture Series:**
 
 https://aws.amazon.com/this-is-my-architecture/
 
-** :computer: Do a lot of labs. Labs steps and code from official AWS Github pages:** 
+**:computer: Do a lot of labs. Labs steps and code from official AWS Github pages:** 
 
 https://github.com/awslabs/
 
