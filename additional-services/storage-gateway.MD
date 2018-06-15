@@ -19,3 +19,6 @@ The AWS Storage Gateway service enables hybrid storage between on-premises envir
 - The volume gateway provides block storage to your applications using the iSCSI protocol. Data on the volumes is stored in Amazon S3. To access your iSCSI volumes in AWS, you can take EBS snapshots which can be used to create EBS volumes.
 
 - The tape gateway provides your backup application with an iSCSI virtual tape library (VTL) interface, consisting of a virtual media changer, virtual tape drives, and virtual tapes. Virtual tape data is stored in Amazon S3 or can be archived to Amazon Glacier.
+
+
+## Data on Storage gatway is encrypted all the time(transit and rest). AWS Snowball which also encrypts data at all times.
