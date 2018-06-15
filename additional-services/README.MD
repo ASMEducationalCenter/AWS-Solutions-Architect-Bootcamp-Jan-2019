@@ -1,0 +1,1 @@
+## There are many services for the AWS SA Exam that you need to know at a basic level. Most of the questions are around VPC, EC2 , S3 ,Rds, DNS. Chapter 11 in the official book has many additional services.This folder has more services explained in brief which you need to know for the exam.
