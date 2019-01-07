@@ -1,14 +1,17 @@
 Day 1 Homework:
 
+EC2 15 Must Know Facts:
+https://www.youtube.com/watch?v=4IKqrG3-Sos
 
 Amazon Virtual Private Cloud (VPC):
 https://www.youtube.com/watch?v=RA58XvPpnb4&t=3s
 
+Amazon AWS -Security Group and Network ACL
+https://www.youtube.com/watch?v=uEzf1TznKEA
+
 Amazon AWS NAT Gateway and NAT instance
 https://www.youtube.com/watch?v=KTJN8u5fcYI
 
-Amazon AWS -Security Group and Network ACL
-https://www.youtube.com/watch?v=uEzf1TznKEA
 
 VPC Peering
 https://www.youtube.com/watch?v=ecokfhKU8Lw
