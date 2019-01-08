@@ -5,9 +5,10 @@ service httpd start
 chkconfig httpd on
 groupadd www
 usermod -a -G www ec2-user
+echo "hello" > /var/www/html/index.html
 chown -R root:www /var/www
 chmod -R 2775 /var/www
-echo "hello" > /var/www/html/index.html
+
 
 
 
