@@ -42,3 +42,6 @@ https://www.reddit.com/r/aws/comments/7tt1hw/cloudformation_whats_the_difference
 Pre-signed-URL
 https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html
 
+
+## VPN Multiple customer gateways for redundancy
+https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNConnections.html
