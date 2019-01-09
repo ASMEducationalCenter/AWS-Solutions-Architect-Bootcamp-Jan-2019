@@ -5,6 +5,12 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html
 https://www.whizlabs.com/aws-solutions-architect-associate/
 
 
+## Install cloudwatch agent:
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-on-first-instance.html
+
+## How to log and monitor your AWS Lambda functions with cloudwatch
+https://www.youtube.com/watch?v=1bQ5rOV1z-k
+
 
 
 DynamoDB best practices:
