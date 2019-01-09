@@ -11,7 +11,8 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatc
 ## How to log and monitor your AWS Lambda functions with cloudwatch
 https://www.youtube.com/watch?v=1bQ5rOV1z-k
 
-
+## Things only a AWS root user can do 
+https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html
 
 DynamoDB best practices:
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
