@@ -2,3 +2,7 @@
 
 Amazon AWS Lambda Tutorial – Schedule to Stop EC2 Instances
 https://www.youtube.com/watch?v=aia6YoRKAFs&t=1s
+
+
+Monitoring Lambda with cloudwatch
+https://www.youtube.com/watch?v=1bQ5rOV1z-k
