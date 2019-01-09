@@ -4,6 +4,10 @@ Amazon AWS Command Line Interface (CLI) with roles:
 https://www.youtube.com/watch?v=YCSxln-10aQ
 
 
+2) Do the Quiz 1 
+
+3) Setup MFA on your account
+
 
 
 
