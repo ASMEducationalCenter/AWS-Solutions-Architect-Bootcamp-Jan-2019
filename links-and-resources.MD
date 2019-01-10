@@ -24,6 +24,9 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations
 ## VPC Peering
 https://docs.aws.amazon.com/vpc/latest/peering/working-with-vpc-peering.html
 
+## Invalid VPC Peering scenarios
+https://docs.aws.amazon.com/vpc/latest/peering/invalid-peering-configurations.html
+
 What to do if you lose your key pair:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
 
