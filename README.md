@@ -22,15 +22,10 @@ This Repository contains the files for AWS Solutions Architect Associate Exam Pr
 
 
 ** there might be a few changes to the schedule 
-## Link for the powerpoit Slides 
-https://s3.amazonaws.com/may-versioning-bucket/All-in-one-AWS-June-2018+updated.pdf
 
-## Link for the Labs:
 
-https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
-
-## Exam Info and Blueprint and sample questions can be found here:
-https://aws.amazon.com/certification/certified-solutions-architect-associate/
+## Link for the bootcamp documents soft copy(labs, slides etc)
+https://example-1111.s3.amazonaws.com/bootcamp-files?AWSAccessKeyId=AKIAIFG7TNSTHPGO3EQA&Signature=BPicwCmGiyrDDWEFkEE667iR9P0%3D&Expires=1547311296
 
 
 #### Materials we will be referring to:
