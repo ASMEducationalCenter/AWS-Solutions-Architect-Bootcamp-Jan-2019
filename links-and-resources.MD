@@ -31,26 +31,26 @@ What to do if you lose your key pair:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
 
 
-Error codes HTTP :
+## Error codes HTTP :
 https://docs.aws.amazon.com/AmazonS3/latest/API/ErrorResponses.html#ErrorCodeList
 
-Cloudformation Limits:
+## Cloudformation Limits:
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cloudformation-limits.html
 
-AWS Services Limits:https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+## AWS Services Limits:https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
 
-Max no of Subnets per VPC: 200
-No of VPC per region(soft limit):5
-No of EIP's per region: 5
-No of EC2 : 20 for region for most sizes Reference:https://aws.amazon.com/ec2/pricing/on-demand/
-No of reserved private IP per subnet:5 private IP reserved per subnet (0,1,2,3,255)
+- Max no of Subnets per VPC: 200
+- No of VPC per region(soft limit):5
+- No of EIP's per region: 5
+- No of EC2 : 20 for region for most sizes Reference:https://aws.amazon.com/ec2/pricing/on-demand/
+- No of reserved private IP per subnet:5 private IP reserved per subnet (0,1,2,3,255)
 
 
 
-Cloudformation Ref vs GetAtt Discussion in Reddit:
+# Cloudformation Ref vs GetAtt Discussion in Reddit:
 https://www.reddit.com/r/aws/comments/7tt1hw/cloudformation_whats_the_difference_between_the/
 
-Pre-signed-URL
+# Pre-signed-URL
 https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html
 
 
