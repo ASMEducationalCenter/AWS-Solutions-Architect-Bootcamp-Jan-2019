@@ -4,6 +4,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html
 ## Whizlabs Practice Questions
 https://www.whizlabs.com/aws-solutions-architect-associate/
 
+## IAM Policy Ninja (Must Watch)
+https://www.youtube.com/watch?v=y7-fAT3z8Lo
+
 
 ## Install cloudwatch agent:
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-on-first-instance.html
