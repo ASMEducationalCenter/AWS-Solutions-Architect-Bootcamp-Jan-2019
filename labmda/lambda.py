@@ -17,6 +17,8 @@ def lambda_handler(event, context):
             	print(instance["InstanceId"] + "stopping")
     
             	id=[instance["InstanceId"]]
-                
+                try:
                 ## this is the line that does the actual stopping of the EC2 instances
-            	client.stop_instances(InstanceIds=id)
+            	    client.stop_instances(InstanceIds=id)
+                except:
+                    pass
