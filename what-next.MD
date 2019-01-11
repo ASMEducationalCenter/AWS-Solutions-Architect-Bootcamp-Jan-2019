@@ -16,4 +16,4 @@
   - Jenkins
 
 
-- Do some projects like building websites for friends/family. Build simple apps or services using the AWS services. Checkout some example in my github repos: https://gitbub.com/ravsau
+- Do some projects like building websites for friends/family. Build simple apps or services using the AWS services. Checkout some example in my github repos: https://github.com/ravsau
